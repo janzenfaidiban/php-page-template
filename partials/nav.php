@@ -1,8 +1,8 @@
 <?php 
     // navigasi
-    echo "<a href='index.php'>Home</a> ";
-    echo "<a href='profile.php'>Profile</a> ";
-    echo "<a href='gallery.php'>Gallery</a> ";
-    echo "<a href='shop.php'>Shop</a> ";
-    echo "<a href='contact.php'>Contact</a> ";
+    echo "<a href='?page=home'>Home</a> ";
+    echo "<a href='?page=profile'>Profile</a> ";
+    echo "<a href='?page=gallery'>Gallery</a> ";
+    echo "<a href='?page=shop'>Shop</a> ";
+    echo "<a href='?page=contact'>Contact</a> ";
 ?>
